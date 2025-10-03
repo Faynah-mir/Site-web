@@ -3,6 +3,14 @@
 
 // Include any default variable overrides here (though functions won’t be available)
 
+$primary: #B27DAC;
+$secondary: #B6AC97;
+$dark:#392C1E;
+$black:  #292222;
+$font-family-sans-serif: "Fanwood Text";
+$font-family-serif:"Fahkwang";
+
+
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-// Then add additional custom code here
